@@ -51,10 +51,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitishbytaru&label=Profile%20views&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitishbytaru&show_icons=true&theme=transparent" alt="stats"/>
 </p>
 
